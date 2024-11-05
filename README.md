@@ -1,5 +1,4 @@
 # Basic Chess-Like Game with WebSocket Communication
-# HitWicket 
 ## Overview
 
 This project implements a turn-based chess-like game with real-time communication using WebSockets. The game is played on a 5x5 grid where two players each control a team of five characters. The game features a server-client architecture with a web-based user interface.
