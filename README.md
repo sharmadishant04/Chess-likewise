@@ -53,4 +53,4 @@ This project implements a turn-based chess-like game with real-time communicatio
 
 1. Clone the repository:
    ```bash
-   git clone github.com/sharmadishant04/DishantSharma_21BIT0365_hitwicket.git
+   git clone github.com/sharmadishant04/Chess-likewise.git
